@@ -13,3 +13,7 @@ for h in range(N+1):
 
 print(cnt)
 
+
+#str -> 계산결과와 문자열을 연결할 때 사용
+
+
